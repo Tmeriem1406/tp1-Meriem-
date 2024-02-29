@@ -23,20 +23,11 @@ nav{
     font-weight: 900;
     font-size: 30px;
 }
-.section{
-    width: 100%;
-    height: 65%;
-    background-image: linear-gradient(to top, #bc0356, #4b0517);
-    margin-left: auto;
-    margin-right: auto;
-    position: absolute;
-    bottom: 0;
-    
-}
+
 .img1{
     width: 50%;
     height:65%;
-    right: 26%;
-    left: 17%;
+    right: 30%;
+    left: 50%;
     position: absolute;
 }

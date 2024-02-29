@@ -25,9 +25,41 @@ nav{
 }
 
 .img1{
-    width: 50%;
-    height:65%;
-    right: 30%;
-    left: 50%;
-    position: absolute;
+    width: 55%;
+    height:35%;
+    right: 20%;
+    left: 60%;
+   
 }
+.img2{
+     width: 20;
+     height: 20 ;
+     right:10% ;
+     left: 90% ;
+
+}
+.img3{
+    width: 5%;
+    height: 5% ;
+    right:7% ;
+    top: 10px ;
+    position: absolute;
+
+}
+.img4{
+    width: 5%;
+    height: 3% ;
+    right:4% ;
+    top: 10px ;
+    position: absolute;
+
+}
+.img5{
+    width: 5%;
+    height: 5% ;
+    right:1% ;
+    top: 10px ;
+    position: absolute;
+
+}
+    

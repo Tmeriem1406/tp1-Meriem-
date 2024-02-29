@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    background-color: rgb(206, 206, 241);
+    font-family: 'Roboto', sans-serif;
+
+}
+a{
+    text-decoration: none;
+    color: rgb(23, 22, 22);
+}
+.destination{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+nav{
+    padding-top: 10px;
+    color: white;
+    background-color: rgb(84, 95, 161);;
+    height: 50px;
+    width: 100%;
+    font-family: helvatica;
+    font-weight: 900;
+    font-size: 30px;
+}
+.section{
+    width: 100%;
+    height: 65%;
+    background-image: linear-gradient(to top, #bc0356, #4b0517);
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    bottom: 0;
+    
+}
+.img1{
+    width: 50%;
+    height:65%;
+    right: 26%;
+    left: 17%;
+    position: absolute;
+}

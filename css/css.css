@@ -91,5 +91,16 @@ nav{
     left: 70% ;
 
 }
-
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: rgb(84, 95, 161);
+}
     

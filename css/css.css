@@ -103,4 +103,13 @@ th, td {
 th {
     background-color: rgb(84, 95, 161);
 }
+.lien{
+    position: absolute;
+    left: 10px;
+    font-family: times new roman;
+    font-weight: 100;
+    font-size: 16px;
+    color: rgb(182, 114, 118);
+
+}
     
